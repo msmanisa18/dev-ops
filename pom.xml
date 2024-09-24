@@ -28,7 +28,7 @@
 
   <build>
     <finalName>idream-it-solutions</finalName>
-    <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults -->
+    <pluginManagement>
       <plugins>
         <plugin>
           <artifactId>maven-clean-plugin</artifactId>
